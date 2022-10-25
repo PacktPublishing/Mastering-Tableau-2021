@@ -17,3 +17,7 @@ By the end of this Tableau book, you’ll have mastered the advanced offerings o
 5. Interact with the Tableau server to understand its architecture and functionalities
 6. Study advanced visualizations and dashboard creation techniques
 7. Brush up on powerful self-service analytics, time series analytics, and geo-spatial analytics
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800561649">https://packt.link/free-ebook/9781800561649 </a> </p>
